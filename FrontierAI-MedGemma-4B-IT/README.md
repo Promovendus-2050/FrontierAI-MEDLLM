@@ -1,4 +1,4 @@
-# 🏥 MediVision-AI
+# 🏥 MEDLLM-Pushing The Bounds of what's possible for Modern Radiology
 
 **Advanced Medical AI Assistant powered by Google's MedGemma 4B-IT**
 
